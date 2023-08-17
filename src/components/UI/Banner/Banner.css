@@ -1,0 +1,12 @@
+.text-difference {
+  mix-blend-mode: difference;
+  color: rgb(123, 51, 233);
+}
+
+.blob {
+  background-color: rgb(123, 51, 233);;
+}
+
+.inverted-container {
+  filter: invert(1);
+}

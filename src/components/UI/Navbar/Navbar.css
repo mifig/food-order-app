@@ -1,0 +1,3 @@
+.bg-invert {
+  backdrop-filter: invert(1);
+}
