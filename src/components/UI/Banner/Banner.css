@@ -10,3 +10,12 @@
 .inverted-container {
   filter: invert(1);
 }
+
+.banner {
+  filter: drop-shadow(4px 4px 12px rgba(0,0,0,0.4));
+  background-image: url('https://www.lovethegarden.com/sites/default/files/content/articles/UK_unusual-veg-romanesco.jpg');
+}
+
+.banner > h2 {
+  text-shadow: -2px 0 #65a30d, 0 2px #65a30d, 2px 0 #65a30d, 0 -2px #65a30d;
+}
